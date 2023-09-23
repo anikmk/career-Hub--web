@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1,
+      "logo": "company1_logo.png",
+      "job_title": "Software Engineer",
+      "company_name": "TechCo Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "Any Location",
+      "job_type": "Full-Time",
+      "salary": "$80,000 - $100,000",
+      "job_description": "Join our team of talented engineers to work on exciting projects.",
+      "job_responsibility": "Develop, test, and maintain software applications.",
+      "educational_requirement": "Bachelor's degree in Computer Science or related field",
+      "experience": "2+ years of software development experience",
+      "contact_information": {
+        "phone": "+1 (123) 456-7890",
+        "email": "jobs@techco.com",
+        "address": "123 Main Street, Anytown, USA"
+      }
+    },
+    {
+      "id": 2,
+      "logo": "company2_logo.png",
+      "job_title": "Data Analyst",
+      "company_name": "Data Insights LLC",
+      "remote_or_onsite": "Onsite",
+      "location": "New York, NY",
+      "job_type": "Contract",
+      "salary": "$60 - $70 per hour",
+      "job_description": "Use data to drive business decisions and provide insights.",
+      "job_responsibility": "Collect, clean, and analyze data to generate reports and recommendations.",
+      "educational_requirement": "Bachelor's degree in Statistics, Data Science, or related field",
+      "experience": "3+ years of data analysis experience",
+      "contact_information": {
+        "phone": "+1 (555) 123-4567",
+        "email": "hr@datainsights.com",
+        "address": "456 Oak Street, Big City, USA"
+      }
+    },
+    {
+      "id": 3,
+      "logo": "company3_logo.png",
+      "job_title": "Graphic Designer",
+      "company_name": "Creative Designs Ltd.",
+      "remote_or_onsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "job_type": "Full-Time",
+      "salary": "$50,000 - $60,000",
+      "job_description": "Create visually appealing designs for various projects.",
+      "job_responsibility": "Design graphics for print and digital media.",
+      "educational_requirement": "Bachelor's degree in Graphic Design or related field",
+      "experience": "2+ years of graphic design experience",
+      "contact_information": {
+        "phone": "+1 (777) 987-6543",
+        "email": "hr@creativedesigns.com",
+        "address": "789 Maple Avenue, Sunnyville, USA"
+      }
+    },
+    {
+      "id": 4,
+      "logo": "company4_logo.png",
+      "job_title": "Marketing Manager",
+      "company_name": "MarketMasters Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "Any Location",
+      "job_type": "Full-Time",
+      "salary": "$70,000 - $90,000",
+      "job_description": "Lead marketing initiatives and campaigns for our clients.",
+      "job_responsibility": "Develop and execute marketing strategies.",
+      "educational_requirement": "Bachelor's degree in Marketing or related field",
+      "experience": "5+ years of marketing management experience",
+      "contact_information": {
+        "phone": "+1 (888) 765-4321",
+        "email": "careers@marketmasters.com",
+        "address": "101 Elm Street, Metroville, USA"
+      }
+    },
+    {
+      "id": 5,
+      "logo": "company5_logo.png",
+      "job_title": "Financial Analyst",
+      "company_name": "Finance Solutions Co.",
+      "remote_or_onsite": "Remote",
+      "location": "Any Location",
+      "job_type": "Full-Time",
+      "salary": "$65,000 - $75,000",
+      "job_description": "Analyze financial data and provide insights for investment decisions.",
+      "job_responsibility": "Conduct financial modeling and forecasting.",
+      "educational_requirement": "Bachelor's degree in Finance, Economics, or related field",
+      "experience": "3+ years of financial analysis experience",
+      "contact_information": {
+        "phone": "+1 (555) 987-6543",
+        "email": "info@financesolutions.com",
+        "address": "555 Pine Street, Financeville, USA"
+      }
+    },
+    {
+      "id": 6,
+      "logo": "company6_logo.png",
+      "job_title": "Human Resources Specialist",
+      "company_name": "HR Experts Inc.",
+      "remote_or_onsite": "Onsite",
+      "location": "Chicago, IL",
+      "job_type": "Full-Time",
+      "salary": "$55,000 - $65,000",
+      "job_description": "Support HR functions and assist in talent acquisition.",
+      "job_responsibility": "Recruit, onboard, and manage employee records.",
+      "educational_requirement": "Bachelor's degree in Human Resources or related field",
+      "experience": "2+ years of HR experience",
+      "contact_information": {
+        "phone": "+1 (333) 789-0123",
+        "email": "hr@hrexperts.com",
+        "address": "123 Oak Avenue, Windycity, USA"
+      }
+    }
+  ]
+  
